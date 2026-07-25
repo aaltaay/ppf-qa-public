@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+chunks.json
+Drive Protected.mp4
+video.mp4
+modules/
+
+node_modules/
+dist/
+.pytest_cache/
+

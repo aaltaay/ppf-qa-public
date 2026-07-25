@@ -1,0 +1,38 @@
+[
+  {
+    "module": 1,
+    "start_time": 0.0,
+    "end_time": 28.5,
+    "text": "Welcome to Module 1. In this lesson we introduce the course platform, explain how modules are structured, and show where to find transcripts and practice exercises."
+  },
+  {
+    "module": 1,
+    "start_time": 28.5,
+    "end_time": 55.0,
+    "text": "Each module ends with a short recap quiz. Pause the video at any time and use the Q&A widget to ask questions about what you just watched."
+  },
+  {
+    "module": 2,
+    "start_time": 0.0,
+    "end_time": 32.0,
+    "text": "Module 2 covers core concepts. We walk through the three building blocks of the demo curriculum: observation, practice, and reflection."
+  },
+  {
+    "module": 2,
+    "start_time": 32.0,
+    "end_time": 58.0,
+    "text": "When you practice a new skill, start with a low-stakes exercise before moving to the graded assignment at the end of the module."
+  },
+  {
+    "module": 3,
+    "start_time": 0.0,
+    "end_time": 30.0,
+    "text": "Module 3 is the hands-on lab. Follow along with the sample workflow and note the checkpoints where you should verify your results."
+  },
+  {
+    "module": 3,
+    "start_time": 30.0,
+    "end_time": 52.0,
+    "text": "If you get stuck, rewatch the segment from the timestamp cited in the Q&A answer, then retry the lab step before submitting."
+  }
+]
